@@ -1,6 +1,9 @@
 # CSIT web
 
 ## Introduction
-```
- We are learning html.
-HTML, or HyperText Markup Language, is the standard language used to create web pages, and it defines the structure and content of a page rather than its style or behavior. A page is built from elements, each made up of tags written in angle brackets (like `<p>`), an optional set of attributes that add extra information (like `href` in a link), and the content inside. Every HTML document starts with a `<!DOCTYPE html>` declaration and is wrapped in an `<html>` element containing a `<head>` for metadata such as the title and character set, and a `<body>` for everything visible on the page. Common tags include headings (`<h1>` to `<h6>`), paragraphs (`<p>`), links (`<a>`), images (`<img>`), lists (`<ul>`, `<ol>`, `<li>`), tables, and forms, while semantic elements such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` give meaning to page sections and improve accessibility and SEO. Elements are either block-level, which start on a new line and take the full width (like `<div>` and `<p>`), or inline, which stay within the flow of text (like `<span>` and `<strong>`). Good practice includes adding `alt` text to images, using only one `<h1>` per page, and writing tags in lowercase. HTML5 introduced features like `<audio>`, `<video>`, `<canvas>`, and new form input types, and together with CSS for styling and JavaScript for behavior, HTML forms the foundation of web development.GIT```
+
+``` We are learning html.```
+
+[Google](https://www.google.com)
+
+![alt](image.jpg)
